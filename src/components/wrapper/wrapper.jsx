@@ -1,7 +1,7 @@
-import React from 'react'
-import Sidebar from './Sidebar'
-import MainMenu from './MainMenu'
-import '../styles/styles.css'
+import Sidebar from '../sidebar/sidebar'
+import MainMenu from '../mainMenu/mainMenu'
+import './wrapper_styles.css'
+
 
 const Wrapper = () => {
   return (
