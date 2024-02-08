@@ -1,4 +1,4 @@
-import Cell from "../cell/cell";
+import Cell from '../cell/cell';
 import './mainMenu_styles.css'
 
 const MainMenu = () => {
